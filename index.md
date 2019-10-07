@@ -1,7 +1,8 @@
 <html>
   <head>
+    <title>Blog</title>
   </head>
   <body>
-    <body bgcolor="#C0C0C0">
+    <h1>Parking Eaze Project</h1>
     </body>
     </html
